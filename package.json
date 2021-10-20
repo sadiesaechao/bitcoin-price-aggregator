@@ -1,9 +1,11 @@
 {
   "name": "bitcoin-price-aggregator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Consolidate prices from multiple cryptocurrency price sources",
   "main": "lib/index.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "scripts": {},
   "repository": {
     "type": "git",
