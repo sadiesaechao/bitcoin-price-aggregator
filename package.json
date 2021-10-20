@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Consolidate prices from multiple cryptocurrency price sources",
   "main": "lib/index.js",
+  "files": ["lib"],
   "scripts": {},
   "repository": {
     "type": "git",
